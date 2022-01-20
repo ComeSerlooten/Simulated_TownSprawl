@@ -1,0 +1,40 @@
+newmtl Default-Material
+Kd 1 1 1
+d 1
+
+newmtl Wood
+Kd 0.2830188 0.2182544 0.1532573
+d 1
+
+newmtl Brick
+Kd 0.5754716 0.2796741 0.1867568
+d 1
+
+newmtl Grass
+Kd 0.3937914 0.5660378 0.3705945
+d 1
+
+newmtl PlantGrass
+Kd 0.2946773 0.5943396 0.2433428
+d 1
+
+newmtl Leaves
+Kd 0.6122774 0.6792453 0.2716981
+d 1
+
+newmtl PlantWood
+Kd 0.2830188 0.2182544 0.1532573
+d 1
+
+newmtl FlowerRed
+Kd 1 0.4970498 0.4970498
+d 1
+
+newmtl FlowerRed_1
+Kd 1 0.4970498 0.4970498
+d 1
+
+newmtl FlowerBlue
+Kd 0.6360555 0.9611706 1
+d 1
+

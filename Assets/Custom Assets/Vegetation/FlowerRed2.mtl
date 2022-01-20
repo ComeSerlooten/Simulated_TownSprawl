@@ -1,0 +1,12 @@
+newmtl FlowerRed
+Kd 1 0.2113207 0.2113207
+d 1
+
+newmtl Grass
+Kd 0.1966714 0.8207547 0.2902738
+d 1
+
+newmtl FlowerBlue
+Kd 0.3622641 0.9139323 1
+d 1
+

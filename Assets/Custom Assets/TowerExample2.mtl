@@ -1,0 +1,28 @@
+newmtl Brick
+Kd 0.5754716 0.2796741 0.1867568
+d 1
+
+newmtl Wood
+Kd 0.2830188 0.2182544 0.1532573
+d 1
+
+newmtl Creme_Wall
+Kd 0.6792453 0.6346642 0.5280169
+d 1
+
+newmtl Window
+Kd 0.6698113 0.6328074 0.4385368
+d 1
+
+newmtl Default-Material
+Kd 1 1 1
+d 1
+
+newmtl Default-Material_1
+Kd 1 1 1
+d 1
+
+newmtl Default-Material_2
+Kd 1 1 1
+d 1
+
